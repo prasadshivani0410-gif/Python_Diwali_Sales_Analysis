@@ -1,4 +1,4 @@
-# Diwali Sales Analysis 🪔
+# Diwali Sales Analysis 
 
 A simple exploratory data analysis (EDA) project to understand customer buying patterns during Diwali sales. The goal is to find out **who is buying, what they are buying, and from where**.
 
@@ -73,6 +73,6 @@ diwali-sales-analysis/
 
 ---
 
-## Author
+
 
 
